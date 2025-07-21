@@ -1,0 +1,9 @@
+{
+  "disease": "bacterial blight",
+  "description": "Fungal leaf spot...",
+  "pesticide_small_region": "Fungicide-123",
+  "dosage_small_region": "2 ml/l",
+  "pesticide_large_region": "Super-Fungicide-X",
+  "dosage_large_region": "1.5 ml/l",
+  "organic_method": "Neem-based spray"
+}
