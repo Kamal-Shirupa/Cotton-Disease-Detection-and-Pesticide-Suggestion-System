@@ -18,9 +18,3 @@ This folder contains the core source code modules for the crop disease detection
 
 - `utils.py`  
   Contains helper functions, like training history plots, that support the overall pipeline.
-
-## 📦 How to Use
-
-These modules are designed to be imported into the main notebook or script. You can also integrate them into a larger API or GUI application if needed.
-
-> ✅ Tip: Add docstrings and logging as needed to make debugging and future development easier.
